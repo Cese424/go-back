@@ -24,10 +24,10 @@ body {
     -moz-transform: translate3d(-50%, -50%, 0px);
     -ms-transform: translate3d(-50%, -50%, 0px);
     transform: translate3d(-50%, -50%, 0px);
-    -webkit-transition: opacity 500ms;
-    -moz-transition: opacity 500ms;
-    -ms-transition: opacity 500ms;
-    transition: opacity 500ms;
+    -webkit-transition: opacity 250ms;
+    -moz-transition: opacity 250ms;
+    -ms-transition: opacity 250ms;
+    transition: opacity 250ms;
     text-transform: uppercase;
     font-family: helvetica;
     line-height: 180px;

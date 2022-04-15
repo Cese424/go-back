@@ -13,7 +13,7 @@ function App() {
 	}
 
 	var bindElements = function () {
-		setInterval(animateSubliminalSpans, 1000);
+		setInterval(animateSubliminalSpans, 500);
 	}
 
 	var animateSubliminalSpans = function () {
